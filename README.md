@@ -2,10 +2,10 @@
 ColorBlind
 ==========
 
-Playing around with color remapping to simulate color blindness. This script takes in the input image and remaps the colors to simulate how the image would look if you had a particular type of color blindness. 
+Playing around with color remapping to simulate color blindness. This script takes in the input image and remaps the colors to simulate how the image would look if you had a particular type of color blindness. This is not quite ready for action as I am not sure the print scanned well, or the conversion values used were valid. I cribbed some remapping values from [here](https://github.com/emarc/Chrometric). *This is slightly half baked as this kind of stuff should be done in HSV as RGB blows out the color in the white areas of the image. Maybe I can fix it when I get a minute.*
 
-The input image is a print from an old French medical text about color blindness I picked up at a flea market. I scanned it and wanted to see if I could simualte color blindness. The print is called Dyschromatopsy and is from Larousse Medicale Illustre. The print is an offset lithography from the 1952 edition, but the original printing was created in 1912. I cribbed some remapping values from [here](https://github.com/emarc/Chrometric). *This is slightly half baked as this kind of stuff should be done in HSV as RGB blows out the color in the white areas of the image. Maybe I can fix it when I get a minute.*
 
+The input image is a print from an old French medical text about color blindness I picked up at a flea market. I scanned it and wanted to see if I could simualte color blindness. The print is called Dyschromatopsy and is from Larousse Medicale Illustre. The print is an offset lithography from the 1952 edition, but the original printing was in 1912. 
 According to my French friend the print says the following:
 
 *Colored rectangles classified by subjects of different types:1 normal and Balfour .... 2 on that disk, the normal eye sees "DN", the Dalton type only sees the D, the Seebeck-Nagel and Balfour types only see the N.*
