@@ -1,4 +1,3 @@
-
 ![](colorblind.jpg "Dyschromatopsy")
 ColorBlind
 ==========
@@ -9,9 +8,9 @@ The input image is a print from an old French medical text about color blindness
 
 According to my French friend the print says the following:
 
-'''
+```
 Colored rectangles classified by subjects of different types:1 normal and Balfour .... 2 on that disk, the normal eye sees "DN", the Dalton type only sees the D, the Seebeck-Nagel and Balfour types only see the N.
-'''
+```
 
 Read more about color blindness here:
 * [Wikipedia Article](http://en.wikipedia.org/wiki/Color_blindness)
